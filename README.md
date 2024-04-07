@@ -2,7 +2,9 @@
 
 Hey there! I'm 0xjei.
 
-I am an independent ZK software engineer working with [PSE](https://pse.dev/en). I am committed to deep, ethical deliberation over quick capitalist turnarounds. My visionary approach is to make technology work for humanity. Currently, I am deeply investing my time and energy in navigating the dark, deep universe of cryptographic primitives and protocols to create open, high quality, modular software that will serve as the building block for privacy-preserving technologies worldwide. I build on [Ethereum](https://ethereum.org/en/).
+I am an independent ZK software engineer working with [PSE](https://pse.dev/en), building on [Ethereum](https://ethereum.org/en/).
+
+My approach is to make technology work for humanity, positively balancing ethics over quick market returns. I mainly invest my time and energy in navigating the dark, deep universe of cryptographic primitives and protocols to create open, high quality, modular software that will serve as the building block for privacy-preserving technologies worldwide.
 
  🏗️ I'm currently working on [@semaphore-protocol](https://github.com/semaphore-protocol), [@bandada-infra](https://github.com/bandada-infra) and [@zk-kit](https://github.com/privacy-scaling-explorations/zk-kit) - prev [@p0tion](https://github.com/privacy-scaling-explorations/p0tion) and [@maci](https://github.com/privacy-scaling-explorations/maci).
  
