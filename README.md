@@ -1,13 +1,9 @@
 ![cover](https://github.com/0xjei/0xjei/assets/20580910/261ee988-ac7f-4e5e-925a-5083a26ee9f7)
 
-hello, Giacomo here.  
-Freelancing in applied cryptography engineering on Ethereum.  
-Not a pure theoretical cryptographer, not just a full-stack software engineer — something in between.
+I am 0xjei (Giacomo), a senior, independent applied cryptography software engineer based in South Sardinia, Italy.
 
-I explore the space between programmable cryptography, engineering, and fast experimentation.  
-I love breaking down hard, complex systems into independent, modular, easy-to-use components.  
-I build infra, prototypes, modules, libraries, and dev tools.
+I design and implement systems that use programmable cryptography (ZKP, MPC, FHE) and Ethereum to build privacy-preserving infrastructure and protocols. My work sits at the intersection between cryptography research and production engineering — I take primitives from papers and turn them into systems that developers can actually use. For over five years, I have worked with some of the best teams in the ecosystem across many different projects (see Experience for more).
 
-Always learning in public, feel free to reach out if you wanna discuss or collab on anything.
-I’m always open to meaningful conversations.
-> A true master is an eternal student.
+I'm interested in collaborating on projects that explore how programmable cryptography can create new ways to protect privacy when coordinating with others. Specifically, systems where untrusted parties, humans and agents alike, can compute and collaborate together without revealing their secrets.
+
+I strongly believe in privacy as a foundation for freedom, trustlessness as a design constraint, and protocols that empower rather than extract. As systems become more centralized and surveillance-capable, we need infrastructure that shifts power back to individuals and communities. Programmable cryptography is how we enable groups to work together in a privacy-preserving way, while Ethereum is how we enable them to coordinate and collaborate without a central authority.I am 0xjei (Giacomo), a senior, independent applied cryptography software engineer based in South Sardinia, Italy. I design and implement systems that use programmable cryptography (ZKP, MPC, FHE) and Ethereum to build privacy-preserving infrastructure and protocols. My work sits at the intersection between cryptography research and production engineering — I take primitives from papers and turn them into systems that developers can actually use. For over five years, I have worked with some of the best teams in the ecosystem across many different projects (see Experience for more). I'm interested in collaborating on projects that explore how programmable cryptography can create new ways to protect privacy when coordinating with others. Specifically, systems where untrusted parties, humans and agents alike, can compute and collaborate together without revealing their secrets. I strongly believe in privacy as a foundation for freedom, trustlessness as a design constraint, and protocols that empower rather than extract. As systems become more centralized and surveillance-capable, we need infrastructure that shifts power back to individuals and communities. Programmable cryptography is how we enable groups to work together in a privacy-preserving way, while Ethereum is how we enable them to coordinate and collaborate without a central authority. 
