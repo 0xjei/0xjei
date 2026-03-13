@@ -4,4 +4,4 @@ applied cryptography engineer · cypherpunk · d/acc · open source
 
 Senior independent engineer based in South Sardinia, Italy. I design and build privacy-preserving infrastructure, protocols, and libraries for collaborative confidential computation on Ethereum — taking primitives from papers and turning them into systems developers can actually use.
 
-(for more, website out soon...)
+more at [0xjei.dev](https://0xjei.dev)
